@@ -1,5 +1,5 @@
 # Rectangle project
-This project say whether rectagnles intersect each other and whether one of them located into another. And also calculate an area of their intersection if they intersect.
+This project says whether rectagnles intersect each other and whether one of them located into another. And also calculate an area of their intersection if they intersect.
 
 Examples of rectangles are shown in winforms 
 
